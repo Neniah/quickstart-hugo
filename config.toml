@@ -1,0 +1,4 @@
+baseURL = "http://marialobilo.com/"
+languageCode = "en-us"
+title = "Maria Lobillo"
+theme = "ananke"
